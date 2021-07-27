@@ -8,4 +8,4 @@ print("data =", integer)
 
 #input boolean
 boolean = bool(int(input('Masukan data: ')))
-print("data =", booleanbool())
+print("data =", boolean())
